@@ -1,2 +1,2 @@
-<p align="center"> folder spawner </p>
-Infinite folder spawner
+# <p align="center">Folder spawner</p>
+Infinite folder spawner made in batch
